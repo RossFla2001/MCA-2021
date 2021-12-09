@@ -13,6 +13,7 @@ The various data sets for my chosen artist have been curated and will be availab
 
 Edited Muse score file uploaded to my Github Repository. 
 
+https://github.com/RossFla2001/MCA-2021/blob/master/images/Original-Score.png
 
 
 
