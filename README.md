@@ -13,10 +13,11 @@ The various data sets for my chosen artist have been curated and will be availab
 
 Link to Original Score image below:
 
-
 https://github.com/RossFla2001/MCA-2021/blob/master/images/Original-Score.png
 
+
 Link to Edited Score image:
+
 https://github.com/RossFla2001/MCA-2021/blob/master/images/Edited-Score.png
 
 
