@@ -11,9 +11,14 @@ The various data sets for my chosen artist have been curated and will be availab
 
 # Week 2 -
 
-Edited Muse score file uploaded to my Github Repository. 
+Link to Original Score image below:
+
 
 https://github.com/RossFla2001/MCA-2021/blob/master/images/Original-Score.png
+
+Link to Edited Score image:
+
+
 
 
 
