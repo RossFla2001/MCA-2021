@@ -20,6 +20,8 @@ Link to Edited Score image:
 
 https://github.com/RossFla2001/MCA-2021/blob/master/images/Edited-Score.png
 
+These scores look very different, but fundamentally sound the same.  Although they are very different visually, they are still the same song.
+
 
 
 
