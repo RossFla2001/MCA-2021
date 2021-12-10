@@ -126,8 +126,13 @@ Looking at the MFCC and histograms, we can see they are very similar in the data
 # Week 10 - 
 
 Chromograms:
+Chromogram 1-
 
 https://github.com/RossFla2001/MCA-2021/blob/master/images/chromogramsW10.png
+
+Chromogram 2-
+
+https://github.com/RossFla2001/MCA-2021/blob/master/images/chromograms2W10.png
 
 
 
