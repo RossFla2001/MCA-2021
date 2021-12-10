@@ -105,6 +105,10 @@ https://github.com/RossFla2001/MCA-2021/blob/master/images/V1-MFCC-Histogram.png
 
 
 # Week 9 
+
+https://github.com/RossFla2001/MCA-2021/blob/master/images/V1-MFCC-Histogram.png
+
+
 Looking at the MFCC and histograms, we can see they are very similar in the data they hold.  when the piece of music changes in pitch and as the piece moves along, the data changes accordingly.  For example when the pitch goes higher/higher notes are played the values increase in both.  However, not all of the values are the exact same in the MFCC and the histogram.  
 
 
