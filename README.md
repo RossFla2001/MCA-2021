@@ -111,6 +111,7 @@ https://github.com/RossFla2001/MCA-2021/blob/master/images/V1-MFCC-Histogram.png
 
 Version 2 Histogrm
 
+https://github.com/RossFla2001/MCA-2021/blob/master/images/V2-MFCC-Histogram.png
 
 
 
