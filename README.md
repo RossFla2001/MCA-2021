@@ -135,7 +135,9 @@ Chromogram 2-
 https://github.com/RossFla2001/MCA-2021/blob/master/images/chromograms2W10.png
 
 
+Colour Graph:
 
+https://github.com/RossFla2001/MCA-2021/blob/master/images/ColourgraphW10.png
 
 
 
