@@ -1,8 +1,8 @@
 # MCA
-\[Enter your responses to Week 1, tasks 2 and 3 here\]
+
 
 # Week 1 - Task 2
-My theme for my data set will be an artist - Motley Crue!
+My theme for my data set will be an artist - Motley Crue! (This has since changed) - noted in my reflection
 
 # Week 1 - Task 3
 
