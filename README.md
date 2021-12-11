@@ -6,7 +6,10 @@ My theme for my data set will be an artist - Motley Crue! (This has since change
 
 # Week 1 - Task 3
 
-The various data sets for my chosen artist have been curated and will be available online or elsewhere.  The hundreds of songs that they have produced are availale to stream on most platforms.  There are some execerpts of sheet music available i places like google images. 
+The various data sets for my chosen artist have been curated and will be available online or elsewhere.  The hundreds of songs that they have produced are availale to stream on most platforms.  There are some execerpts of sheet music available in places like google images.
+
+(Again, not related to new theme) - refer below:
+There are thousands of different versions of my chosen song - moonlight Sonata.  I have used IMSLP (International Music Score Library Project) to find a suitable version of the song.    
 
 
 # Week 2 -
