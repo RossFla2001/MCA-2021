@@ -39,7 +39,7 @@ https://github.com/RossFla2001/MCA-2021/blob/master/images/V1-MFCC-Histogram.png
  
  # Week 7 - 
  
- RossFla2001.github.io/MCA-2021/myMeta.html
+https://rossfla2001.github.io/MCA-2021/myMeta.html 
 
 
 
